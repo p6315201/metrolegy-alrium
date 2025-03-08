@@ -1,0 +1,265 @@
+Added Component: Designator=C1(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "680 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_17.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603JRNPO9BN681/2833590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09.02.2024 20:10:17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603JRNPO9BN681"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "12488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "CC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1425-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "680 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP 0603_1608)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "680 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_17.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0603JRNPO9BN681/2833590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "09.02.2024 20:10:17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603JRNPO9BN681"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "12488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "CC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1425-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "680 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIOM5026X262N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1N5824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1n5824/microchip-technology?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.microsemi.com/document-portal/doc_download/5865-1n5823-25-datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.43mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N5824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "494-1N5824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/1N5824?qs=TXMzd3F6EyleEEWqakQxJw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO214AA SMB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/SS29-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/SS24/SS24FSCT-ND/1626273"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "400µA @ 40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "03.06.2024 19:54:02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature - Junction"; Value = "-65°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DO-214AA, SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1394"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "DO-214AA (SMB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SS24FSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "500mV @ 2A"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO214AA SMB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/SS29-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/SS24/SS24FSCT-ND/1626273"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "400µA @ 40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "03.06.2024 19:54:02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature - Junction"; Value = "-65°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DO-214AA, SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1394"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "DO-214AA (SMB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SS24FSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "500mV @ 2A"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIOM5026X262N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1N5824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1n5824/microchip-technology?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.microsemi.com/document-portal/doc_download/5865-1n5823-25-datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.43mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N5824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "494-1N5824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/1N5824?qs=TXMzd3F6EyleEEWqakQxJw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(0022292041)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0022292041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0022292041/molex?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/022292041_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0022292041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0022292041?qs=PBcRNPEHKsq3yGXZ0ocRTw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HANDSON_KF301-2P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KF301-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(HANDSON_KF301-2P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KF301-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(BOURNS SRP5030T)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/SRP5030T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/bourns-inc/SRP5030T-R33M/3986076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Saturation"; Value = "18A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "14 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "5mOhm Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.118" (3.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "330 nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance Frequency - Test"; Value = "100 kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "03.06.2024 20:02:35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Core"; Value = "Iron Powder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SRP5030T-R33M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.59"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SRP5030T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.224" L x 0.205" W (5.70mm x 5.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SRP5030T-R33MCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Drum Core, Wirewound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330 nH"; VariantName = "[No Variations]"
+Added Component: Designator=PS1(KTT0005B)
+Added Component: Designator=U1(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Do it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(IC_DRV8825_STEPPER_MOTOR_DRIVER_CARRIER)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8825_STEPPER_MOTOR_DRIVER_CARRIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0 Pin=C1-2
+Added Pin To Net: NetName=5V0 Pin=D1-2
+Added Pin To Net: NetName=5V0 Pin=L1-1
+Added Pin To Net: NetName=5V0 Pin=PS1-4
+Added Pin To Net: NetName=5V0 Pin=U1-30
+Added Net: Name=5V0
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=PS1-3
+Added Pin To Net: NetName=GND Pin=PS1-5
+Added Pin To Net: NetName=GND Pin=PS1-6
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=D3-2
+Added Pin To Net: NetName=NetC2_2 Pin=PS1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U2-16
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=J2-2
+Added Pin To Net: NetName=NetD2_2 Pin=J3-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=J2-1
+Added Pin To Net: NetName=NetD3_1 Pin=U2-9
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=L1-2
+Added Pin To Net: NetName=NetD4_1 Pin=PS1-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-11
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-13
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-12
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=U2-14
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Pin To Net: NetName=NetU1_20 Pin=U2-8
+Added Net: Name=NetU1_20
+Added Pin To Net: NetName=NetU1_22 Pin=U1-22
+Added Pin To Net: NetName=NetU1_22 Pin=U2-7
+Added Net: Name=NetU1_22
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=U2-6
+Added Net: Name=NetU2_5
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

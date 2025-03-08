@@ -1,0 +1,14 @@
+Added Component: Designator=J1(0022292041)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0022292041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0022292041/molex?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/022292041_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0022292041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0022292041?qs=PBcRNPEHKsq3yGXZ0ocRTw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Member To Class: ClassName=Sheet1 Member=Component J1 0022292041
